@@ -1,0 +1,2 @@
+serviceClass: de.majug.codecamp.app.client.GreetingService
+path: 97C23400B7071B1742FA713CA82299E9.gwt.rpc
